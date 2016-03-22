@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Píratar í Borgarbyggð]]></title>
+        <description><![CDATA[Píratar í Borgarbyggð]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Mar 2016 21:52:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/17cdfb46-cf4a-46f1-9ca3-4cf6baa821a6.jpg">]]></description>
+            <link>undefinedpiratar-i-borgarbyggd-er-lydraedisafl-sem-beitir-ser-fyrir-au/index.html</link>
+            <guid isPermaLink="false">4b0643d3-0572-4df6-9629-9dc5d5c4b99b</guid>
+            <pubDate>Tue, 22 Mar 2016 21:52:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
