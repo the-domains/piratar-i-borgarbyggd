@@ -1,0 +1,28 @@
+name: Píratar í Borgarbyggð
+favicon: null
+layout_spectrum: 0.6374243027530611
+typography_spectrum: 0.7896964906249195
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2519968319684267
+  lightness: 0.4823390149977058
+  saturation: 0.48503482388332486
+  rhythmicContrast: 0.24394041835330427
+purpose: []
