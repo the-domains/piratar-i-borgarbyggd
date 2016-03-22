@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Píratar í Borgarbyggð er lýðræðisafl sem beitir sér fyrir auknu íbúalýðræði, gagnsæji í stjórnsýslu byggðarinnar, brotthvarfi flokkapólitíkur úr Borgarbyggð ásamt því að færa valið nær íbúanum og að hann sé upplýstur.'
-datePublished: '2016-03-22T21:52:03.415Z'
-dateModified: '2016-03-22T21:51:55.586Z'
+datePublished: '2016-03-22T22:04:41.379Z'
+dateModified: '2016-03-22T22:04:40.732Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-22-piratar-i-borgarbyggd-er-lydraedisafl-sem-beitir-ser-fyrir-au.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-22-piratar-i-borgarbyggd-er-lydraedisafl-sem-beitir-ser-fyrir-au.md
-published: true
 url: piratar-i-borgarbyggd-er-lydraedisafl-sem-beitir-ser-fyrir-au/index.html
 _type: Article
 
